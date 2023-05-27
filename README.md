@@ -161,16 +161,10 @@ Click me to Find Grade Result of a Student
 </body>
 </html>
 ```
-##OUTPUT  
-![Screenshot (76)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/d257813e-27af-49b6-9caf-119a1e1000a1)
-![Screenshot (77)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/2e947719-0fd4-415f-8085-3f299d485ae2)
-![Screenshot (78)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/847a3230-2525-43ad-b403-956003d80037)
-![Screenshot (79)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/d1d55470-19bd-4609-9288-95412ec6a3c2)
-![Screenshot (80)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/8fbe5ca0-a2d1-4c7d-ba90-41392514604d)
-![Screenshot (81)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/f5bb274b-c192-49cf-a9e5-2c3bf7393f10)
-
-  
-  
+##OUTPUT
+  ![Screenshot (76)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/25998d32-be20-48c4-90f8-ede6c767d878)                                     ![Screenshot (77)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/e31ef61c-9dea-47e4-9555-ad3d651fec8e)
+  ![Screenshot (78)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/d3bfbcbc-55ba-4362-86e6-cb218b99ff82)                                     ![Screenshot (79)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/66bca590-f0f6-4b6a-887a-14857cc6529b)
+  ![Screenshot (80)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/5916b050-1d2b-4dd9-a673-8fe4ab1c8fc6)
+  ![Screenshot (81)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/85bf6661-6000-4589-9c95-f19876d822d4)
 ## RESULT!
-
-  Student result using JavaScript is created successfully.
+ Student result using JavaScript is created successfully.
