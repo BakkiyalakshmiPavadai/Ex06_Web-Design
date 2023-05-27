@@ -162,7 +162,7 @@ Click me to Find Grade Result of a Student
 </html>
 ```
 ##OUTPUT  
-  ![Screenshot (76)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/d257813e-27af-49b6-9caf-119a1e1000a1)
+![Screenshot (76)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/d257813e-27af-49b6-9caf-119a1e1000a1)
 ![Screenshot (77)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/2e947719-0fd4-415f-8085-3f299d485ae2)
 ![Screenshot (78)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/847a3230-2525-43ad-b403-956003d80037)
 ![Screenshot (79)](https://github.com/BakkiyalakshmiPavadai/Ex06_Web-Design/assets/127816647/d1d55470-19bd-4609-9288-95412ec6a3c2)
